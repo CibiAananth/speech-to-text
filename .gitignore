@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# editor files
+.vscode
+.history
